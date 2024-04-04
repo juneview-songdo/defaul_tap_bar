@@ -1,7 +1,7 @@
 name: defaul_tap_bar
 description: "Description here"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/defaul_tap_bar
 
 version: 1.0.0+1
 
